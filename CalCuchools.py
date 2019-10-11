@@ -1,8 +1,8 @@
 # Programmed By DL-TTy (A.M. Ispare)
-# https://www.github.com/DL-TTy/Calcuchools
-# via Python 3.4.4
+# https://www.github.com/DL-TTy/Project
+# via Python 3.4.4 ~ 3.7.4
 # Beta
-# Version 2.0.8.19
+# Version 2.0.4.36
 # Telegram : T.me/DarkLord_TTy
 # AM7@hackermail.com
 
