@@ -28,7 +28,7 @@ Division: 5
 Power: 6
 Average: 7
 Sum and Count: 8
-Multipcation Table
+Multipcation Table: 9
 """)
       activity = input("Witch One ??  _")# Select Activity
       activity = int(activity)# Update
